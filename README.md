@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rohit mahto
+- 👀 I’m interested in web develop
+- 🌱 I’m currently learning JavaScript
